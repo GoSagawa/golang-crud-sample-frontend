@@ -152,13 +152,13 @@ export default {
     return {
       post_list: [],
       insert_data: {
-        name : '',
-        message : ''
+        name: '',
+        message: ''
       },
       update_data: {
-        id : '',
-        name : '',
-        message : ''
+        id: '',
+        name: '',
+        message: ''
       }
     }
   },
